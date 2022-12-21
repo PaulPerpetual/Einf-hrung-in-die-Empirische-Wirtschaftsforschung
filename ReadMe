@@ -1,0 +1,11 @@
+This is the LaTex code to the summary of the "Introductory Economics Course". I was always upset if I had a great summary from the web and wanted to make a small change or spotted a mistake I basically had to rewrite the whole thing. This I imagine to be a place where we can iteratively improve on the given summary.
+
+If you have never worked with GitHub or Overleaf before. Consider learning it it is easy enough.
+
+If you are a student of UZH you should be able to log in on overleaf.com using the instuttional log in. There you can open this project directly from GitHub!
+
+From the New Project menu, you can select the GitHub option. This will present you with a list of repositories that are visible to Overleaf through your GitHub account, based on your GitHub permission settings.
+
+For more details have a look here! https://www.overleaf.com/learn/how-to/Using_Git_and_GitHub
+
+Of course you can also just download ("clone") the main.tex file and paste it to your latex editor of choice.
